@@ -1,2 +1,2 @@
 # A-Tour-of-Cpp
-My study notes for the textbook A Tour of C++
+Some codes and artifacts for my studies on the book: A Tour of C++ (Bjarne Stroustrup) (2nd edition for C++17) 
